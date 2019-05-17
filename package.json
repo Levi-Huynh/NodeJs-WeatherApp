@@ -1,5 +1,4 @@
 {
-
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js"
@@ -13,8 +12,6 @@
     "request": "^2.88.0"
   },
   "devDependencies": {
-    "nodemon": "^1.19.0",
-    "webpack": "^4.31.0",
-    "webpack-dev-server": "^3.4.1"
+    "nodemon": "^1.19.0"
   }
 }
